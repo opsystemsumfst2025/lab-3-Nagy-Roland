@@ -1,0 +1,5 @@
+1.A sorrend nincs megszabva az utemezes donti el 
+2.Mikor a gyerek befejozdik zombi allapotba amig a szulo el es nem gyujti be a wait funkcio helyesen mukodik
+3.Mivel nem parhuzamos a muvelet novelesek vesznek el counter novelesenel is fellepik a szinkronizacios hiba
+4.Itt csak egy folyamat fut egyszere igy pontos az ertek de lassu a folyamat
+Hazi:szablykent biztositjuk a valtakozast hagy ping vagy pong kimarad elcsuszik az algoritmus
